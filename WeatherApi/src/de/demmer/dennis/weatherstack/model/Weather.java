@@ -4,7 +4,7 @@ import java.util.List;
 
 public class Weather {
 	
-	Location location;
+	private Location location;
     private String observationTime;
     private double temperature;
     private List<String> weatherDescriptions;
